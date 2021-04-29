@@ -28,6 +28,20 @@ module.exports = [
     ],
   },
   {
+    name: 'Danny Adams',
+    description: 'A blog with tasty topics: JavaScript algorithms, easy to follow tutorials, and freelancing/marketing tips.',
+    url: 'https://www.doabledanny.com/blog/',
+    twitter: '@doabledanny',
+    tags: [
+      'JavaScript',
+      'Algorithms',
+      'SEO',
+      'React',
+      'Freelancing',
+      'PHP'
+    ],
+  },
+  {
     name: 'Karl Koch',
     description: 'Product Designer and Developer.',
     url: 'https://www.kejk.tech/thoughts',
